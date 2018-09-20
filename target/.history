@@ -18,3 +18,14 @@ exit
 scalac hello.scala
 run
 exit
+run hello.scala
+compile
+run penguin
+run penguin help me
+exit
+run penguin help me
+exit
+run penguin help me
+exit
+run penguin help me
+exit
