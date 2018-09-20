@@ -29,3 +29,21 @@ run penguin help me
 exit
 run penguin help me
 exit
+compile
+exit
+compile
+run scala is fun
+exit
+compile
+run scal is even more fun
+compile
+run scala is even more fun
+exit
+run hello you guys
+exit
+compile
+run for args in args
+run --help
+discoverMainClasses
+git status
+exit
