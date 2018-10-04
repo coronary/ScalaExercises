@@ -1,2 +1,2 @@
 # ScalaExercises
-Scala from Programming in Scala
+Exercises from Programming in Scala by Bill Venners and Martin Odersky
